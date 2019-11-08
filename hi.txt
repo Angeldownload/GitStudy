@@ -3,3 +3,5 @@ hi
 update branch
 update by test
 update by dev
+update by remote
+update by github
